@@ -1,0 +1,7 @@
+*.csv
+*.dat
+*.feather
+*.zip
+
+/data
+.ipynb_checkpoints/
